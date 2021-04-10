@@ -1,6 +1,6 @@
-.skillsBlock {
-    height: 100vh;
-    background-color: aquamarine;
+.worksBlock {
+    min-height: 100vh;
+    background-color: #5b42b8;
 }
 
 .skillsContainer {
@@ -12,7 +12,7 @@
     background-color: #d7d5d5;
 }
 
-.skills {
+.works {
     border: 1px solid;
     width: 100%;
     display: flex;
