@@ -1,6 +1,8 @@
+@import '../common/styles/sass/variables.scss';
+
 .skillsBlock {
     min-height: 100vh;
-    background-color: aquamarine;
+    background-color: $bgColor;
 }
 
 .skillsContainer {
@@ -13,9 +15,16 @@
 }
 
 .skills {
-    border: 1px solid;
     width: 100%;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+}
+.particles{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 0;
 }

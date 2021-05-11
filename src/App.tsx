@@ -3,8 +3,7 @@ import './App.css';
 import Header from "./Header/Header";
 import Main from "./main/Nav/Main";
 import Skills from "./Skils/Skills";
-import Works from "./Works/Works";
-import {Contacts} from "./Сontacts/Contacts";
+import Projects from "./Projects/Projects";
 import Footer from "./Footer/Footer";
 
 function App() {
@@ -13,9 +12,8 @@ function App() {
             <Header/>
             <Main/>
             <Skills/>
-            <Works />
-            <Contacts />
-            <Footer />
+            <Projects/>
+            <Footer/>
         </div>
     );
 }

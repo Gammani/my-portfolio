@@ -1,0 +1,27 @@
+@import '../common/styles/sass/variables';
+
+.footerBlock{
+    //background-color: $bgColor;
+    background-color: #11162d;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: $titleFontFamily;
+    color: $textColor;
+}
+
+.contacts{
+    /* border: 1px solid; */
+    min-height: 100px;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.image {
+    border: 3px solid white;
+    width: 60px;
+    border-radius: 50%;
+}
