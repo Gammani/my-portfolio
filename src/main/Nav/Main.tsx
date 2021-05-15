@@ -5,6 +5,8 @@ import Particles from "react-particles-js";
 import {particlesOptions} from "../../particles";
 import photo from "../../assets/image/photo2.jpg";
 
+
+
 function Main() {
     return (
         <div className={style.mainBlock} id={"main"}>

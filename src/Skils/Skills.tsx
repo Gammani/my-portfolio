@@ -52,14 +52,14 @@ function Skills() {
                 <div className={style.skills} >
                     <Skill title={"Javascript"} style={javascript}/>
                     <Skill title={"Typescript"} style={ts}/>
-                    <Skill title={"Html"} style={html}/>
-                    <Skill title={"Css"} style={css}/>
-                    <Skill title={"Scss"} style={scss}/>
                     <Skill title={"React"} style={react}/>
                     <Skill title={"Redux"} style={redux}/>
                     <Skill title={"Git"} style={git}/>
                     <Skill title={"Storybook"} style={storybook}/>
                     <Skill title={"Axios"} style={axios}/>
+                    <Skill title={"Html"} style={html}/>
+                    <Skill title={"Css"} style={css}/>
+                    <Skill title={"Scss"} style={scss}/>
                 </div>
             </div>
         </div >

@@ -12,10 +12,10 @@ const Footer = () => {
                 <a href={"https://github.com/Oreda-Z"}>
                     <img src={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvtNE473tBKNyv-qz_oG-E9hlT9vIw4oqcQ8f9dMAxekDzinxzBPpqNdTybp45yAfZvEg&usqp=CAU"} alt={"github"} className={style.image}/>
                 </a>
-                <a>
+                <a href={"https://t.me/Oreda_Z"}>
                     <img src={"https://www.vectorico.com/download/social_media/Telegram-Icon.jpg"} alt={"telegram"} className={style.image}/>
                 </a>
-                <a>
+                <a href={"https://www.linkedin.com/in/aleksey-tukarev-2714021a5/"}>
                     <img src={"https://www.vectorico.com/download/social_media/LinkedIn-Icon-squircle.jpg"} alt={"linkedin"} className={style.image}/>
                 </a>
             </div>
