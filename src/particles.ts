@@ -1,4 +1,4 @@
-export const particlesOptions = {
+export const particlesOptions: any = {
   "window": "fill",
   "fpsLimit": 60,
   "interactivity": {

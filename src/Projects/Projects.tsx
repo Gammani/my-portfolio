@@ -22,9 +22,9 @@ function Projects() {
             <div className={`${styleContainer.container} ${style.projectsContainer}`}>
                 <Title title={"My Projects"}/>
                 <div className={style.projects}>
-                    <Project link={"https://oreda-z.github.io/socnet/"} style={socNet} title={"Socnet"} description={"Социальная сесть. Простой интерфейс с взаимодействием API"}/>
-                    <Project link={"https://oreda-z.github.io/todolist/"} style={todoList} title={"TodoList"} description={"Список дел или список задач"}/>
-                    <Project link={"https://oreda-z.github.io/super-counter/"} style={counter} title={"Counter"} description={"Счетчик с настраиваемыми параметрами"}/>
+                    <Project link={"https://gammani.github.io/socnet/"} style={socNet} title={"Socnet"} description={"Социальная сесть. Простой интерфейс с взаимодействием API"}/>
+                    <Project link={"https://gammani.github.io/todolist/"} style={todoList} title={"TodoList"} description={"Список дел или список задач"}/>
+                    <Project link={"https://gammani.github.io/super-counter/"} style={counter} title={"Counter"} description={"Счетчик с настраиваемыми параметрами"}/>
                 </div>
             </div>
         </div>
