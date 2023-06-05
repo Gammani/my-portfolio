@@ -19,7 +19,7 @@ const Footer = () => {
                     <img src={"https://www.vectorico.com/download/social_media/LinkedIn-Icon-squircle.jpg"} alt={"linkedin"} className={style.image}/>
                 </a>
             </div>
-            <h5>© 2021 All rights reserved</h5>
+            <h5>© 2023 All rights reserved</h5>
         </div>
     )
 }
